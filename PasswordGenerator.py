@@ -1,4 +1,4 @@
-from flask import Flask, render_code, request, render_template_string
+from flask import Flask, request, render_template_string
 import secrets
 import string
 
